@@ -31,15 +31,19 @@ Dataset kecil yang digunakan terdiri dari:
 
 ## 📈 Output Utama
 
-- Model regresi logistik yang menjelaskan probabilitas `Y=1` terhadap nilai `X1`
-  a. Koefisien Intercept (β₀) ≈ -7.3956
-  b. Koefisien X1 (β₁) ≈ 0.1682
-  c. Model signifikan pada level 5%
-- Nilai parameter β₀ dan β₁ hasil estimasi
-  a. Total Log-Likelihood ≈ -4.3729
-  b. Estimasi parameter (Newton-Raphson):
-  c. β₀ ≈ -7.3307
-  d. β₁ ≈ 0.1663
+1. Model regresi logistik yang menjelaskan probabilitas `Y=1` terhadap nilai `X1`
+- Koefisien Intercept (β₀) ≈ -7.3956
+- Koefisien X1 (β₁) ≈ 0.1682
+- Model signifikan pada level 5%
+
+2. Nilai parameter β₀ dan β₁ hasil estimasi
+- Total Log-Likelihood ≈ -4.3729
+- Estimasi parameter (Newton-Raphson):
+  
+  β₀ ≈ -7.3307
+  
+  β₁ ≈ 0.1663
+  
 - Nilai log-likelihood
 - Visualisasi kurva sigmoid/logistik
 
